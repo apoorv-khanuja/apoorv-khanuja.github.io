@@ -7,6 +7,24 @@ const projects = [
     imgSrc: "project1.jpg",
     repoLink: "https://github.com/yourusername/project1"
   },
+  {
+    title: "Energy Efficiency Measure NLP Analysis",
+    description: "Analyzed Energy Efficiency Measure names using NLP techniques to better understand and categorize them.",
+    imgSrc: "project1.jpg",
+    repoLink: "https://github.com/yourusername/project1"
+  },
+  {
+    title: "Energy Efficiency Measure NLP Analysis",
+    description: "Analyzed Energy Efficiency Measure names using NLP techniques to better understand and categorize them.",
+    imgSrc: "project1.jpg",
+    repoLink: "https://github.com/yourusername/project1"
+  },
+  {
+    title: "Energy Efficiency Measure NLP Analysis",
+    description: "Analyzed Energy Efficiency Measure names using NLP techniques to better understand and categorize them.",
+    imgSrc: "project1.jpg",
+    repoLink: "https://github.com/yourusername/project1"
+  },
   // Add the remaining projects in a similar format
 ];
 
